@@ -1,0 +1,15 @@
+*{color :red}
+ @import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+ {
+    margin 5;
+    padding 9;
+     }
+body {
+    font-family: 'Borel', cursive;
+     background-color: rgb(43, 43, 131);
+}
+h1 {color: coral;}
+u, h2 {color: aquamarine;
+}
+h3 {color: blanchedalmond;}
+
